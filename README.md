@@ -1,4 +1,4 @@
-## Hi there 👋
+## ✨ Welcome! ✨
 My name is Martin Young and welcome to my GitHub! I have many repositories, some of which are 'works in progress'. If you would like to see the current projects I am proud of, please check my portfolio @ [martinyoungportfolio.azurewebsites.com](https://martinyoungportfolio.azurewebsites.net/)
 
 I've been working in the Tech field for 5 years now and lived in many cities. I'm happy to have met so many great people who have helped to mentor me. I look forward to furthering my experience in Software Development beyond just the Support Engineer jobs I have gotten. 
