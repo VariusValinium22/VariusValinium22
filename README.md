@@ -4,7 +4,7 @@ My name is Martin Young and welcome to my GitHub! I have many repositories, some
 I've been working in the Tech field for 6+ years now and lived in many cities. I'm happy to have met so many great people who have helped to mentor me. I look forward to furthering my experience in Software Development beyond just the Support Engineer jobs I have gotten. 
 Thank you for stopping by!!
 
-<h2 align="center">🛠 Languages & Tools</h2>
+## 🛠 Languages & Tools
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" />
